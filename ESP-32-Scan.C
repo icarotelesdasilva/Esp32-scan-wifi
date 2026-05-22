@@ -11,4 +11,4 @@ Serial.printf("scan feito: %d\n", n);
 }
 
 // Estou enfrentando problemas serios nesse codigo, recomendo utilizar somente quando estiver resolvido.
-//[!] Resolvendo de forma imediata.
+// [!] Resolvendo de forma imediata.
