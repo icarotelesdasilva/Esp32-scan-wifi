@@ -1,3 +1,5 @@
+#include <WiFi.h> // [!] codigo ainda vai ter mais atualizações.
+
 void setup() {
 
 Serial.begin(115200);
@@ -10,5 +12,6 @@ Serial.printf("scan feito: %d\n", n);
 
 }
 
-// Estou enfrentando problemas serios nesse codigo, recomendo utilizar somente quando estiver resolvido.
-// [!] Resolvendo de forma imediata.
+void loop() {
+  // [!] codigo corrigido.
+}
